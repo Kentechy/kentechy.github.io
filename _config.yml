@@ -2,6 +2,7 @@
 title: Kentechy
 description: Managed IT Provider
 cover: assets/images/radhakrishna.jpg
+fulllogo: assets/images/full_logo.png
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
